@@ -8,13 +8,6 @@
 
 
 
-<div style="text-align: center;">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=18&duration=3000&pause=1000&color=90EE90&background=B4F0FF00&width=800&height=200&center=true&vCenter=true&lines=I+enjoy+being+responsible+as+part+of+a+team.;Contributing+to+the+growth+of+a+company.;My+goal+is+to+stay+updated+on+the+latest+technologies.;Applying+them+in+everyday+life+and+innovating.;Creating+solutions+that+benefit+humanity." 
-         alt="Typing SVG">
-  </a>
-</div>
-
 <p align="center"> <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="400">
 <br><br></p>
 
