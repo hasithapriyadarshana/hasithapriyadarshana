@@ -1,41 +1,37 @@
 <h1 align="center">Hi 👋, I'm Hasitha Priyadarshana</h1>
-<p align="center">
-  <a href="https://www.hasithapriyadarshana.com" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00C9A7&size=25&center=true&vCenter=true&width=700&height=100&lines=ICT+Undergraduate+%7C+Network+Technology;Web+Developer+%7C+Freelancer;Network+%26+Technology+Enthusiast;Building+Secure+%26+Modern+Digital+Solutions" alt="Typing SVG" />
-  </a>
-</p>
 
 <p align="center">
   <img
-    src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
-    alt="Coding Animation"
+    src="https://raw.githubusercontent.com/hasithapriyadarshana/hasithapriyadarshana/main/Hasitha.gif"
+    alt="Hasitha Priyadarshana"
     width="100%"
   />
 </p>
 
 <p align="center">
-  <img
-    src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif"
-    width="400"
-    alt="Coding Animation"
-  />
+  <a href="https://www.hasithapriyadarshana.com">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00C9A7&size=25&center=true&vCenter=true&width=700&height=100&lines=ICT+Undergraduate+%7C+Network+Technology;Web+Developer+%7C+Freelancer;Network+%26+Technology+Enthusiast;Building+Secure+%26+Modern+Digital+Solutions"
+      alt="Typing SVG"
+    />
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🎓 **ICT Undergraduate in Network Technology** at the **University of Sri Jayewardenepura (USJP)**
-* 💻 **Web Developer** focused on modern, responsive, and practical web solutions
-* 🌐 Interested in **Networking, Web Development, Cybersecurity, and Cloud Technologies**
-* 🚀 Founder of **HyperX Innovations**
-* ⭐ **5-Star Rated Freelancer** on Fiverr
-* 🏆 **Level 1 Freelancer** on Fiverr
-* 🤝 **Leading Volunteer** at the University of Sri Jayewardenepura
-* 💼 Available for **internships, freelance projects, and technology collaborations**
-* 🌱 Currently expanding my knowledge in **Network Technology, Software Development, Cloud Computing, and Cybersecurity**
-* 👨‍💻 All of my projects are available on my **[portfolio website](https://www.hasithapriyadarshana.com)**
-* 📫 Reach me at **[hasithadevelopper@gmail.com](mailto:hasithadevelopper@gmail.com)**
+- 🎓 **ICT Undergraduate in Network Technology** at the **University of Sri Jayewardenepura (USJP)**
+- 💻 **Web Developer** building modern, responsive, and practical web solutions
+- 🌐 Interested in **Networking, Web Development, Cybersecurity, and Cloud Technologies**
+- 🚀 Founder of **HyperX Innovations**
+- ⭐ **5-Star Rated Freelancer** on Fiverr
+- 🏆 **Level 1 Freelancer** on Fiverr
+- 🤝 **Leading Volunteer** at the University of Sri Jayewardenepura
+- 💼 Available for **internships, freelance projects, and technology collaborations**
+- 🌱 Currently learning and improving my skills in **Network Technology, Software Development, Cloud Computing, and Cybersecurity**
+- 🌐 Portfolio: **[hasithapriyadarshana.com](https://www.hasithapriyadarshana.com)**
+- 📫 Email: **hasithadevelopper@gmail.com**
 
 ---
 
@@ -63,7 +59,7 @@
     />
   </a>
 
-  <a href="https://github.com/hasithapriyadarshana" target="_blank">
+  <a href="https://github.com/hasithapriyadarshana">
     <img
       src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
       alt="GitHub"
@@ -84,40 +80,19 @@
 
 ---
 
-## 💼 What I Do
+## 💼 Services & Expertise
 
 <p align="center">
-
-<img
- src="https://img.shields.io/badge/Web%20Development-00C9A7?style=for-the-badge"
- alt="Web Development"
-/>
-
-<img
- src="https://img.shields.io/badge/Network%20Solutions-2196F3?style=for-the-badge"
- alt="Network Solutions"
-/>
-
-<img
- src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"
- alt="WordPress"
-/>
-
-<img
- src="https://img.shields.io/badge/Cloud%20Technologies-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"
- alt="Cloud Technologies"
-/>
-
-<img
- src="https://img.shields.io/badge/Cybersecurity-333333?style=for-the-badge"
- alt="Cybersecurity"
-/>
-
+  <img src="https://img.shields.io/badge/Web%20Development-00C9A7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Network%20Solutions-2196F3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-333333?style=for-the-badge" />
 </p>
 
 ---
 
-## 🚀 Featured Portfolio
+## 🚀 My Portfolio
 
 <p align="center">
   <a href="https://www.hasithapriyadarshana.com" target="_blank">
@@ -136,7 +111,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.hasithapriyadarshana.com" target="_blank">
+  <a href="https://www.hasithapriyadarshana.com">
     <img
       src="https://img.shields.io/badge/Visit%20My%20Portfolio-00C9A7?style=for-the-badge&logo=googlechrome&logoColor=white"
       alt="Visit Portfolio"
@@ -164,32 +139,41 @@
 
 ---
 
-## 💡 Current Focus
+## 🎯 Current Focus
 
-```text
-🌐 Network Technology
-💻 Full-Stack Web Development
+<p align="center">
+
+🌐 Network Technology &nbsp; • &nbsp;
+💻 Full-Stack Development &nbsp; • &nbsp;
 🔐 Cybersecurity
-☁️ Cloud & DevOps
-🧩 Software Engineering
-🚀 Freelance & Open Source Projects
-```
+
+<br>
+
+☁️ Cloud & DevOps &nbsp; • &nbsp;
+🧩 Software Engineering &nbsp; • &nbsp;
+🚀 Freelance Projects
+
+</p>
 
 ---
 
-## 🎯 Let's Work Together
+## 💼 Available for Opportunities
 
 <p align="center">
-  <b>Available for Internship & Freelance Projects</b>
+  <img
+    src="https://www.hasithapriyadarshana.com/assets/images/online.gif"
+    alt="Available Online"
+    width="20"
+  />
+  <b> Available for Internship & Freelance Projects</b>
 </p>
 
 <p align="center">
-  I'm interested in building modern websites, secure network solutions,
-  and practical technology projects.
+  <b>Let's build something meaningful with technology.</b>
 </p>
 
 <p align="center">
-  <a href="https://www.hasithapriyadarshana.com/contact" target="_blank">
+  <a href="https://www.hasithapriyadarshana.com/contact">
     <img
       src="https://img.shields.io/badge/Let's%20Work%20Together-00C9A7?style=for-the-badge&logo=handshake&logoColor=white"
       alt="Let's Work Together"
