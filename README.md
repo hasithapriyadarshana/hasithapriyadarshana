@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hasitha Priyadarshana</h1>
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/hasithapriyadarshana/hasithapriyadarshana/main/Hasitha.gif"
-    alt="Hasitha Priyadarshana"
-    width="100%"
-  />
-</p>
-
-<p align="center">
   <a href="https://www.hasithapriyadarshana.com">
     <img
       src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00C9A7&size=25&center=true&vCenter=true&width=700&height=100&lines=ICT+Undergraduate+%7C+Network+Technology;Web+Developer+%7C+Freelancer;Network+%26+Technology+Enthusiast;Building+Secure+%26+Modern+Digital+Solutions"
