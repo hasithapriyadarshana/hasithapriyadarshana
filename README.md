@@ -1,14 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hasitha Priyadarshana</h1>
-
-<p align="center">
-  <a href="https://www.hasithapriyadarshana.com" target="_blank">
-    <img
-      src="https://www.hasithapriyadarshana.com/assets/images/about/me.svg"
-      alt="Hasitha Priyadarshana Portfolio"
-      width="100%"
-    />
-  </a>
-</p>
+<iframe
+  src="https://www.hasithapriyadarshana.com"
+  width="100%"
+  height="800"
+  frameborder="0">
+</iframe>
 
 <p align="center">
   <a href="https://www.hasithapriyadarshana.com" target="_blank">
